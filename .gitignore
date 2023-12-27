@@ -1,4 +1,6 @@
 # directories
 /__pycache__
+/Turnout_Maps
 
 # files
+*.png

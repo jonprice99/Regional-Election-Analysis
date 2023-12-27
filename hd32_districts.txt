@@ -1,0 +1,68 @@
+Oakmont Dist 1
+Oakmont Dist 2
+Oakmont Dist 3
+Oakmont Dist 4
+Oakmont Dist 5
+Oakmont Dist 6
+Penn Hills Ward 1 Dist 1
+Penn Hills Ward 1 Dist 2
+Penn Hills Ward 1 Dist 3
+Penn Hills Ward 1 Dist 4
+Penn Hills Ward 1 Dist 5
+Penn Hills Ward 2 Dist 1
+Penn Hills Ward 2 Dist 2
+Penn Hills Ward 2 Dist 3
+Penn Hills Ward 2 Dist 4
+Penn Hills Ward 3 Dist 1
+Penn Hills Ward 3 Dist 2
+Penn Hills Ward 3 Dist 3
+Penn Hills Ward 3 Dist 4
+Penn Hills Ward 3 Dist 5
+Penn Hills Ward 3 Dist 6
+Penn Hills Ward 4 Dist 1
+Penn Hills Ward 4 Dist 2
+Penn Hills Ward 4 Dist 3
+Penn Hills Ward 4 Dist 4
+Penn Hills Ward 4 Dist 5
+Penn Hills Ward 5 Dist 1
+Penn Hills Ward 5 Dist 2
+Penn Hills Ward 5 Dist 3
+Penn Hills Ward 5 Dist 4
+Penn Hills Ward 5 Dist 5
+Penn Hills Ward 5 Dist 6
+Penn Hills Ward 6 Dist 1
+Penn Hills Ward 6 Dist 2
+Penn Hills Ward 6 Dist 3
+Penn Hills Ward 6 Dist 4
+Penn Hills Ward 6 Dist 5
+Penn Hills Ward 6 Dist 6
+Penn Hills Ward 7 Dist 1
+Penn Hills Ward 7 Dist 2
+Penn Hills Ward 7 Dist 3
+Penn Hills Ward 7 Dist 4
+Penn Hills Ward 7 Dist 5
+Penn Hills Ward 7 Dist 6
+Penn Hills Ward 7 Dist 7
+Penn Hills Ward 8 Dist 1
+Penn Hills Ward 8 Dist 2
+Penn Hills Ward 8 Dist 3
+Penn Hills Ward 8 Dist 4
+Penn Hills Ward 8 Dist 5
+Penn Hills Ward 8 Dist 6
+Penn Hills Ward 9 Dist 1
+Penn Hills Ward 9 Dist 2
+Penn Hills Ward 9 Dist 3
+Penn Hills Ward 9 Dist 4
+Penn Hills Ward 9 Dist 5
+Plum Dist 1
+Plum Dist 2
+Plum Dist 3
+Plum Dist 7
+Plum Dist 17
+Plum Dist 18
+Plum Dist 19
+Plum Dist 20
+Plum Dist 21
+Verona Dist 1
+Verona Dist 2
+Verona Dist 3

@@ -17,13 +17,35 @@ class Processor:
             filename = os.path.basename(f)
             
             # read the xls file
-            temp_df = pd.read_excel(f, engine='xlrd', sheet_name=None, skiprows=[0, 1])
+            temp_df = pd.read_excel(f, engine='xlrd', sheet_name=None)
             
             # get only the election breakdown pages
-            df = pd.concat(list(temp_df.values())[2:], ignore_index=True)
+            #df = pd.concat(list(temp_df.values())[2:], ignore_index=True)
+            temp_df.pop('Table of Contents')
+            temp_df.pop('Registered Voters')
+            
+            # go through each race in this file
+            keys = list(temp_df.keys())
+            for k in keys:
+                page = temp_df.pop(k)
+                
+                # get the name of the race
+                race = page.columns[0]
+                
+                # reset the columns
+                page.columns = page.iloc[1]
+                page.columns.name = None
+                
+                # remove the leading two rows in the df
+                page = pd.DataFrame(page[2:])
+                page = page.reset_index(drop=True)
+                
+                # set the value with an updated key
+                temp_df[race] = page
             
             # add this df to the dict of dataframes
-            elections[filename] = df
+            #elections[filename] = df
+            elections[filename] = temp_df
         
         return elections
         

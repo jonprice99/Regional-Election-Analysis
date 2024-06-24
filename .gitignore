@@ -1,6 +1,10 @@
 # directories
 /__pycache__
+/.vscode
 /Turnout_Maps
+/Breakdown_Maps
+/Turnout_Sheets
+/Breakdown_Sheets
 
 # files
 *.png

@@ -93,9 +93,10 @@ class Processor:
         
     
 if __name__ == "__main__":
-    processor = Processor(['hd32_special23_detail.xls', 'allegheny_general23_detail.xls', 'allegheny_general22_detail.xls'])
+    processor = Processor(['hd32_special23_detail.xls', 'allegheny_general23_detail.xls', 'allegheny_general22_detail.xls', 'allegheny_primary24_detail.xls'])
     print("-------------- Turnouts Table ---------------")
     print(processor.get_turnouts_table().head(10))
+    print(processor.get_turnouts_table().tail(10))
     print()
     #print("-------------- Elections Table ---------------")
     #print(processor.get_elections_table().head(10))

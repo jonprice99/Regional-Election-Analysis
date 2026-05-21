@@ -1,0 +1,316 @@
+Braddock Hl Dist 1
+Braddock Hl Dist 2
+Chalfant Dist 1
+Churchill Dist 1
+Churchill Dist 2
+Churchill Dist 3
+Churchill Dist 4
+Edgewood Dist 1
+Edgewood Dist 2
+Edgewood Dist 3
+Forest Hills Dist 1
+Forest Hills Dist 2
+Forest Hills Dist 3
+Forest Hills Dist 4
+Forest Hills Dist 5
+Forest Hills Dist 6
+Forest Hills Dist 7
+Forest Hills Dist 8
+Mt Oliver Dist 1
+Mt Oliver Dist 2
+Mt Oliver Dist 3
+Mt Oliver Dist 4
+Oakmont Dist 1
+Oakmont Dist 2
+Oakmont Dist 3
+Oakmont Dist 4
+Oakmont Dist 5
+Oakmont Dist 6
+Penn Hills Ward 1 Dist 1
+Penn Hills Ward 1 Dist 2
+Penn Hills Ward 1 Dist 3
+Penn Hills Ward 1 Dist 4
+Penn Hills Ward 1 Dist 5
+Penn Hills Ward 2 Dist 1
+Penn Hills Ward 2 Dist 2
+Penn Hills Ward 2 Dist 3
+Penn Hills Ward 2 Dist 4
+Penn Hills Ward 3 Dist 1
+Penn Hills Ward 3 Dist 2
+Penn Hills Ward 3 Dist 3
+Penn Hills Ward 3 Dist 4
+Penn Hills Ward 3 Dist 5
+Penn Hills Ward 3 Dist 6
+Penn Hills Ward 4 Dist 1
+Penn Hills Ward 4 Dist 2
+Penn Hills Ward 4 Dist 3
+Penn Hills Ward 4 Dist 4
+Penn Hills Ward 4 Dist 5
+Penn Hills Ward 5 Dist 1
+Penn Hills Ward 5 Dist 2
+Penn Hills Ward 5 Dist 3
+Penn Hills Ward 5 Dist 4
+Penn Hills Ward 5 Dist 5
+Penn Hills Ward 5 Dist 6
+Penn Hills Ward 6 Dist 1
+Penn Hills Ward 6 Dist 2
+Penn Hills Ward 6 Dist 3
+Penn Hills Ward 6 Dist 4
+Penn Hills Ward 6 Dist 5
+Penn Hills Ward 6 Dist 6
+Penn Hills Ward 7 Dist 1
+Penn Hills Ward 7 Dist 2
+Penn Hills Ward 7 Dist 3
+Penn Hills Ward 7 Dist 4
+Penn Hills Ward 7 Dist 5
+Penn Hills Ward 7 Dist 6
+Penn Hills Ward 7 Dist 7
+Penn Hills Ward 8 Dist 1
+Penn Hills Ward 8 Dist 2
+Penn Hills Ward 8 Dist 3
+Penn Hills Ward 8 Dist 4
+Penn Hills Ward 8 Dist 5
+Penn Hills Ward 8 Dist 6
+Penn Hills Ward 9 Dist 1
+Penn Hills Ward 9 Dist 2
+Penn Hills Ward 9 Dist 3
+Penn Hills Ward 9 Dist 4
+Penn Hills Ward 9 Dist 5
+Pittsburgh Ward 4 Dist 1
+Pittsburgh Ward 4 Dist 2
+Pittsburgh Ward 4 Dist 3
+Pittsburgh Ward 4 Dist 4
+Pittsburgh Ward 4 Dist 5
+Pittsburgh Ward 4 Dist 6
+Pittsburgh Ward 4 Dist 7
+Pittsburgh Ward 4 Dist 8
+Pittsburgh Ward 4 Dist 9
+Pittsburgh Ward 4 Dist 10
+Pittsburgh Ward 4 Dist 11
+Pittsburgh Ward 4 Dist 12
+Pittsburgh Ward 4 Dist 13
+Pittsburgh Ward 4 Dist 14
+Pittsburgh Ward 4 Dist 15
+Pittsburgh Ward 4 Dist 16
+Pittsburgh Ward 4 Dist 17
+Pittsburgh Ward 4 Dist 18
+Pittsburgh Ward 4 Dist 19
+Pittsburgh Ward 5 Dist 1
+Pittsburgh Ward 5 Dist 2
+Pittsburgh Ward 5 Dist 3
+Pittsburgh Ward 5 Dist 4
+Pittsburgh Ward 5 Dist 5
+Pittsburgh Ward 5 Dist 6
+Pittsburgh Ward 5 Dist 7
+Pittsburgh Ward 5 Dist 8
+Pittsburgh Ward 5 Dist 9
+Pittsburgh Ward 5 Dist 10
+Pittsburgh Ward 5 Dist 11
+Pittsburgh Ward 5 Dist 12
+Pittsburgh Ward 5 Dist 13
+Pittsburgh Ward 5 Dist 14
+Pittsburgh Ward 5 Dist 15
+Pittsburgh Ward 5 Dist 16
+Pittsburgh Ward 5 Dist 17
+Pittsburgh Ward 5 Dist 18
+Pittsburgh Ward 7 Dist 1
+Pittsburgh Ward 7 Dist 2
+Pittsburgh Ward 7 Dist 3
+Pittsburgh Ward 7 Dist 4
+Pittsburgh Ward 7 Dist 5
+Pittsburgh Ward 7 Dist 6
+Pittsburgh Ward 7 Dist 7
+Pittsburgh Ward 7 Dist 8
+Pittsburgh Ward 7 Dist 9
+Pittsburgh Ward 7 Dist 10
+Pittsburgh Ward 7 Dist 11
+Pittsburgh Ward 7 Dist 12
+Pittsburgh Ward 7 Dist 13
+Pittsburgh Ward 7 Dist 14
+Pittsburgh Ward 8 Dist 1
+Pittsburgh Ward 8 Dist 2
+Pittsburgh Ward 8 Dist 3
+Pittsburgh Ward 8 Dist 4
+Pittsburgh Ward 8 Dist 5
+Pittsburgh Ward 8 Dist 6
+Pittsburgh Ward 8 Dist 7
+Pittsburgh Ward 8 Dist 8
+Pittsburgh Ward 8 Dist 9
+Pittsburgh Ward 8 Dist 10
+Pittsburgh Ward 8 Dist 11
+Pittsburgh Ward 8 Dist 12
+Pittsburgh Ward 8 Dist 13
+Pittsburgh Ward 13 Dist 1
+Pittsburgh Ward 13 Dist 2
+Pittsburgh Ward 13 Dist 3
+Pittsburgh Ward 13 Dist 4
+Pittsburgh Ward 13 Dist 5
+Pittsburgh Ward 13 Dist 6
+Pittsburgh Ward 13 Dist 7
+Pittsburgh Ward 13 Dist 8
+Pittsburgh Ward 13 Dist 9
+Pittsburgh Ward 13 Dist 10
+Pittsburgh Ward 13 Dist 11
+Pittsburgh Ward 13 Dist 12
+Pittsburgh Ward 13 Dist 13
+Pittsburgh Ward 13 Dist 14
+Pittsburgh Ward 13 Dist 15
+Pittsburgh Ward 13 Dist 16
+Pittsburgh Ward 13 Dist 17
+Pittsburgh Ward 13 Dist 18
+Pittsburgh Ward 13 Dist 19
+Pittsburgh Ward 14 Dist 1
+Pittsburgh Ward 14 Dist 2
+Pittsburgh Ward 14 Dist 3
+Pittsburgh Ward 14 Dist 4
+Pittsburgh Ward 14 Dist 5
+Pittsburgh Ward 14 Dist 6
+Pittsburgh Ward 14 Dist 7
+Pittsburgh Ward 14 Dist 8
+Pittsburgh Ward 14 Dist 9
+Pittsburgh Ward 14 Dist 10
+Pittsburgh Ward 14 Dist 11
+Pittsburgh Ward 14 Dist 12
+Pittsburgh Ward 14 Dist 13
+Pittsburgh Ward 14 Dist 14
+Pittsburgh Ward 14 Dist 15
+Pittsburgh Ward 14 Dist 16
+Pittsburgh Ward 14 Dist 17
+Pittsburgh Ward 14 Dist 18
+Pittsburgh Ward 14 Dist 19
+Pittsburgh Ward 14 Dist 20
+Pittsburgh Ward 14 Dist 21
+Pittsburgh Ward 14 Dist 22
+Pittsburgh Ward 14 Dist 23
+Pittsburgh Ward 14 Dist 24
+Pittsburgh Ward 14 Dist 25
+Pittsburgh Ward 14 Dist 26
+Pittsburgh Ward 14 Dist 27
+Pittsburgh Ward 14 Dist 28
+Pittsburgh Ward 14 Dist 29
+Pittsburgh Ward 14 Dist 30
+Pittsburgh Ward 14 Dist 31
+Pittsburgh Ward 14 Dist 32
+Pittsburgh Ward 14 Dist 33
+Pittsburgh Ward 14 Dist 34
+Pittsburgh Ward 14 Dist 35
+Pittsburgh Ward 14 Dist 36
+Pittsburgh Ward 14 Dist 37
+Pittsburgh Ward 14 Dist 38
+Pittsburgh Ward 14 Dist 39
+Pittsburgh Ward 14 Dist 40
+Pittsburgh Ward 14 Dist 41
+Pittsburgh Ward 15 Dist 1
+Pittsburgh Ward 15 Dist 2
+Pittsburgh Ward 15 Dist 3
+Pittsburgh Ward 15 Dist 4
+Pittsburgh Ward 15 Dist 5
+Pittsburgh Ward 15 Dist 6
+Pittsburgh Ward 15 Dist 7
+Pittsburgh Ward 15 Dist 8
+Pittsburgh Ward 15 Dist 9
+Pittsburgh Ward 15 Dist 10
+Pittsburgh Ward 15 Dist 11
+Pittsburgh Ward 15 Dist 12
+Pittsburgh Ward 15 Dist 13
+Pittsburgh Ward 15 Dist 14
+Pittsburgh Ward 15 Dist 15
+Pittsburgh Ward 15 Dist 16
+Pittsburgh Ward 15 Dist 17
+Pittsburgh Ward 15 Dist 18
+Pittsburgh Ward 15 Dist 19
+Pittsburgh Ward 16 Dist 1
+Pittsburgh Ward 16 Dist 2
+Pittsburgh Ward 16 Dist 3
+Pittsburgh Ward 16 Dist 4
+Pittsburgh Ward 16 Dist 5
+Pittsburgh Ward 16 Dist 6
+Pittsburgh Ward 16 Dist 7
+Pittsburgh Ward 16 Dist 8
+Pittsburgh Ward 16 Dist 9
+Pittsburgh Ward 16 Dist 10
+Pittsburgh Ward 16 Dist 11
+Pittsburgh Ward 17 Dist 1
+Pittsburgh Ward 17 Dist 2
+Pittsburgh Ward 17 Dist 3
+Pittsburgh Ward 17 Dist 4
+Pittsburgh Ward 17 Dist 5
+Pittsburgh Ward 17 Dist 6
+Pittsburgh Ward 17 Dist 7
+Pittsburgh Ward 17 Dist 8
+Pittsburgh Ward 18 Dist 1
+Pittsburgh Ward 18 Dist 2
+Pittsburgh Ward 18 Dist 3
+Pittsburgh Ward 18 Dist 4
+Pittsburgh Ward 18 Dist 5
+Pittsburgh Ward 18 Dist 6
+Pittsburgh Ward 18 Dist 7
+Pittsburgh Ward 18 Dist 8
+Pittsburgh Ward 18 Dist 9
+Pittsburgh Ward 18 Dist 10
+Pittsburgh Ward 18 Dist 11
+Pittsburgh Ward 29 Dist 1
+Pittsburgh Ward 29 Dist 2
+Pittsburgh Ward 29 Dist 3
+Pittsburgh Ward 29 Dist 4
+Pittsburgh Ward 29 Dist 5
+Pittsburgh Ward 29 Dist 6
+Pittsburgh Ward 29 Dist 7
+Pittsburgh Ward 29 Dist 8
+Pittsburgh Ward 29 Dist 9
+Pittsburgh Ward 29 Dist 10
+Pittsburgh Ward 29 Dist 11
+Pittsburgh Ward 29 Dist 12
+Pittsburgh Ward 30 Dist 1
+Pittsburgh Ward 30 Dist 2
+Pittsburgh Ward 30 Dist 3
+Pittsburgh Ward 30 Dist 4
+Pittsburgh Ward 30 Dist 5
+Pittsburgh Ward 31 Dist 1
+Pittsburgh Ward 31 Dist 2
+Pittsburgh Ward 31 Dist 3
+Pittsburgh Ward 31 Dist 4
+Pittsburgh Ward 31 Dist 5
+Pittsburgh Ward 31 Dist 6
+Pittsburgh Ward 31 Dist 7
+Rankin Ward 1
+Rankin Ward 2
+Rankin Ward 3
+Swissvale Dist 1
+Swissvale Dist 2
+Swissvale Dist 3
+Swissvale Dist 4
+Swissvale Dist 5
+Swissvale Dist 6
+Swissvale Dist 7
+Swissvale Dist 8
+Swissvale Dist 9
+Swissvale Dist 10
+Swissvale Dist 11
+Verona Dist 1
+Verona Dist 2
+Verona Dist 3
+Wilkins Ward 1 Dist 1
+Wilkins Ward 1 Dist 2
+Wilkins Ward 1 Dist 3
+Wilkins Ward 1 Dist 4
+Wilkins Ward 1 Dist 5
+Wilkins Ward 2 Dist 1
+Wilkins Ward 2 Dist 2
+Wilkinsburg Ward 1 Dist 1
+Wilkinsburg Ward 1 Dist 2
+Wilkinsburg Ward 1 Dist 3
+Wilkinsburg Ward 1 Dist 4
+Wilkinsburg Ward 1 Dist 5
+Wilkinsburg Ward 1 Dist 6
+Wilkinsburg Ward 2 Dist 1
+Wilkinsburg Ward 2 Dist 2
+Wilkinsburg Ward 2 Dist 3
+Wilkinsburg Ward 2 Dist 4
+Wilkinsburg Ward 2 Dist 5
+Wilkinsburg Ward 3 Dist 1
+Wilkinsburg Ward 3 Dist 2
+Wilkinsburg Ward 3 Dist 3
+Wilkinsburg Ward 3 Dist 4
+Wilkinsburg Ward 3 Dist 5
+Wilkinsburg Ward 3 Dist 6
